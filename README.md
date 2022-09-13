@@ -7,7 +7,7 @@
 <img src="https://s1.ax1x.com/2020/04/26/JRuNrR.png" width = "500" height = "300" alt="github实现云签到" align=center />
 
 ### 前言
-为了让同学们更加认真、更加专注听课，而不去用手机签到花费大量时间、耗费大量精力，特此在[原脚本](https://github.com/mkdir700/chaoxing_auto_sign)中开发升级，请自行合理使用！挂科请不要找我，谢谢合作！请点击下方View all of README.md了解更多。
+为了让同学们更加认真、更加专注听课，而不去用手机签到花费大量时间、耗费大量精力，特此在[原脚本](https://github.com/mkdir700/chaoxing_auto_sign)中开发升级，请自行合理使用！挂科请不要找我，谢谢合作！请点击下方View all of README.md了解更多。223
 
 本项目支持学习通任何形式的签到（包括二维码签到、手势签到等），如果是位置签到也可以自定义位置，如果是拍照签到，请自认倒霉，因为默认是黑色照片，自定义照片还在等待开发中。
 
@@ -81,7 +81,7 @@
    
    1.进入你的仓库并进入code界面,点击笔字的按钮进入编写
    ![2D6731A3F5A39D89D91B4F201F8C0B70.jpg](https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3647386614.jpg)<br><br><br>
-   2.在代码框随意编写或删减以达到改变代码的效果，随后点击提交commit，当然如果可以让说明书更精美欢迎来pull
+   2.在代码框随意编写或删减以达到改变代码的效果，随后点击提交commit，当然如果可以让说明55666书更精美欢迎来pull
    ![E0F2D41544BE07971A596488E7A72EAA.jpg](https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3472948209.jpg)
 
    </details>
